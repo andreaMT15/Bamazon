@@ -12,4 +12,4 @@ Once the user enters in the information for the product that they would like to 
 
 See below for the demo: 
 
-![screengif](https://user-images.githubusercontent.com/44379703/50060148-85ca8200-0155-11e9-85c2-220b01d8fd5c.gif)
+
