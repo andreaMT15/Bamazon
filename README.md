@@ -12,4 +12,4 @@ Once the user enters in the information for the product that they would like to 
 
 See below for the demo: 
 
-https://youtu.be/QDIBT8Q3NDA
+![bamazondemo](https://user-images.githubusercontent.com/44379703/53131800-6247fd00-3533-11e9-8576-f634bf8585c9.gif)
