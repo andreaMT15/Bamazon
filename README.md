@@ -1,9 +1,15 @@
-# Bamazon
+## Bamazon
 
-Created an amazon like store front using MySQL, the MySQL NPM Package, Inquirer and CLI Table. 
+**Developer: Andrea Minhas**
 
-The app takes in orders from customers and adjusts the store's inventory accrodingly. 
+**Technologies Used: Javascript, JQuery, Node.js, MySQL, MySQL NPM Package, Inquier, CLI Table NPM Package**
 
-When node bamazon.js is initialized it will bring up the store front where the command line will display the products that are avaialble for purchase and will then prompt the customer for the item id that they want to purchase and the quantity. 
+Bamazon is a command line application that was designed to mimic an Amazon like store front. The app is designed to take in orders from customers and deplete the store's inventory. 
+
+The product information in stored in a MySQL database. 
+
+Once the user enters in the information for the product that they would like to purchase and the quantity. The database will update and the user will then be provided with a total. 
+
+See below for the demo: 
 
 ![screengif](https://user-images.githubusercontent.com/44379703/50060148-85ca8200-0155-11e9-85c2-220b01d8fd5c.gif)
